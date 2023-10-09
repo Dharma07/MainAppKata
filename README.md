@@ -29,7 +29,9 @@ Here are some useful Gradle/adb commands for executing this project:
  
  - Retrofit
  
- - Room
+ - Couroutine
+
+ - Live Data
  
  - View Binding
  
