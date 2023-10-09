@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MainApp</string>
+    <string name="navigate">Navigate to IP</string>
+</resources>
